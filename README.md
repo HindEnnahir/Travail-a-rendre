@@ -1,4 +1,4 @@
-# Gestion des Employés 
+# Gestion des Employés
 
 ## Description
 Ce projet consiste en une application Java de gestion des employés d'une petite entreprise. L'entreprise est composée de cinq employés : un directeur général, un manager, et trois développeurs. L'objectif est de créer une structure hiérarchique et d'afficher les noms et les salaires des employés, du plus haut au plus bas niveau.
